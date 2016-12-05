@@ -13,8 +13,8 @@
     "desktop"
   ],
   "devDependencies": {
-    "jshint": "~2.1.4",
-    "uglify-js": "~2.3.6"
+    "jshint": "~2.9.4",
+    "uglify-js": "~2.7.5"
   },
   "repository": {
     "type": "git",
